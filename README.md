@@ -40,7 +40,7 @@ Built a PowerPoint deck summarising the 12-month Yoyo Card performance with data
 ---
 
 ## Dashboard Preview
-![Excel Dashboard]
+![Excel Dashboard](Citi_dashboard.png)
 
 ## Tools Used
 Excel · PowerPoint · Word · Data Cleaning · Pivot Tables · Financial Product Design · Business Communication

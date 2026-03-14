@@ -26,9 +26,10 @@ Designed the **Citi Business Expense Card** — a centralised expense card for m
 📊 [`Citi_Task_3_Raw_Data.xlsx`](Citi_Task_3_Raw_Data.xlsx) · [`Citi_Task_3_Cleaned_Raw_Data_with_charts.xlsx`](Citi_Task_3_Cleaned_Raw_Data_with_charts.xlsx)
 
 Cleaned and analysed 5,000 corporate card transactions in Excel using pivot tables and charts. Key findings:
-- 75% domestic / 25% overseas transactions — but overseas fees drive higher total revenue
-- 51% Cash, 33% Online, 16% Bank Transfer payment split
+- Total Transaction fee in local transaction was $229,787.87 vs total transaction fees in overseas transaction was $457,906.70.
+- 50.08% Cash, 33.34% Online, 16.58% Bank Transfer payment split
 - Cash withdrawal fees were not being applied — flagged as a revenue gap
+- Created a dashboard explaining transaction value and transaction fees both in domestic and overseas transactions done by 10 clients.
 
 ---
 

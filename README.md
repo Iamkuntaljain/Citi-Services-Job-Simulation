@@ -9,7 +9,7 @@ Hands-on simulation of analyst-level work at Citi's TTS division across 4 tasks 
 ---
 
 ## Task 1 — Client Needs Assessment Email
-📄 [`Citi_Task_1.pdf)`](Citi_Task_1l.pdf))
+📄 [`Citi_Task_1.pdf)`](Citi_Task_1.pdf)
 
 Drafted a professional pre-meeting email from a Citi TTS Product Manager to a corporate client, including a structured questionnaire to surface unaddressed business needs across payments, liquidity, FX, and digital banking before a product discovery session.
 
@@ -38,6 +38,9 @@ Cleaned and analysed 5,000 corporate card transactions in Excel using pivot tabl
 Built a PowerPoint deck summarising the 12-month Yoyo Card performance with data visualisations and strategic recommendations: tiered pricing for overseas transactions, virtual cards to grow online payments, and bundled FX + card solutions.
 
 ---
+
+## Dashboard Preview
+![Excel Dashboard]
 
 ## Tools Used
 Excel · PowerPoint · Word · Data Cleaning · Pivot Tables · Financial Product Design · Business Communication
